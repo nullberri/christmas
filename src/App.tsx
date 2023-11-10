@@ -2,10 +2,6 @@ import "./App.css";
 import Confetti from "react-confetti";
 import useWindowSize from "react-use/lib/useWindowSize";
 import { Paper, Box } from "@mui/material";
-import Present1 from "./present1.svg";
-import Present3 from "./present3.svg";
-import sf from "./sf.jpg";
-import freeParking from "./free-parking.jpg";
 
 const size = "250px";
 
@@ -21,10 +17,14 @@ function App() {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src={Present1} />
+                    <img src={"/public/present1.svg"} />
                   </div>
                   <div className="flip-card-back">
-                    <img src={sf} height={"100%"} width={"100%"} />
+                    <img
+                      src={"/public/sf.jpg"}
+                      height={"100%"}
+                      width={"100%"}
+                    />
                   </div>
                 </div>
               </div>
@@ -35,10 +35,14 @@ function App() {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src={Present3} />
+                    <img src={"/public/present1.svg"} />
                   </div>
                   <div className="flip-card-back">
-                    <img src={freeParking} height={"100%"} width={"100%"} />
+                    <img
+                      src={"/public/free-parking.jpg"}
+                      height={"100%"}
+                      width={"100%"}
+                    />
                   </div>
                 </div>
               </div>
