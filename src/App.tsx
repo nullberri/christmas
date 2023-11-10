@@ -21,7 +21,7 @@ function App() {
                   </div>
                   <div className="flip-card-back">
                     <img
-                      src={"/christmas//public/sf.jpg"}
+                      src={"/christmas/public/sf.jpg"}
                       height={"100%"}
                       width={"100%"}
                     />
@@ -35,11 +35,11 @@ function App() {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src={"/christmas//public/present1.svg"} />
+                    <img src={"/christmas/public/present1.svg"} />
                   </div>
                   <div className="flip-card-back">
                     <img
-                      src={"/christmas//public/free-parking.jpg"}
+                      src={"/christmas/public/free-parking.jpg"}
                       height={"100%"}
                       width={"100%"}
                     />
