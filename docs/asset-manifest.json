@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.94ef64ec.css",
-    "main.js": "/static/js/main.11d79da8.js",
-    "static/js/787.f02be138.chunk.js": "/static/js/787.f02be138.chunk.js",
-    "static/media/sf.jpg": "/static/media/sf.0d73fe9466e31f64742b.jpg",
-    "static/media/free-parking.jpg": "/static/media/free-parking.50d0e77da0036bc4a615.jpg",
-    "static/media/present1.svg": "/static/media/present1.efdd2ff673764a7ad532618943648d1f.svg",
-    "static/media/present3.svg": "/static/media/present3.8f98b4926cd8ae663b3b7816c388789d.svg",
-    "index.html": "/index.html",
-    "main.94ef64ec.css.map": "/static/css/main.94ef64ec.css.map",
-    "main.11d79da8.js.map": "/static/js/main.11d79da8.js.map",
-    "787.f02be138.chunk.js.map": "/static/js/787.f02be138.chunk.js.map"
+    "main.css": "/christmas/static/css/main.94ef64ec.css",
+    "main.js": "/christmas/static/js/main.58b6c620.js",
+    "static/js/787.f02be138.chunk.js": "/christmas/static/js/787.f02be138.chunk.js",
+    "static/media/sf.jpg": "/christmas/static/media/sf.0d73fe9466e31f64742b.jpg",
+    "static/media/free-parking.jpg": "/christmas/static/media/free-parking.50d0e77da0036bc4a615.jpg",
+    "static/media/present1.svg": "/christmas/static/media/present1.efdd2ff673764a7ad532618943648d1f.svg",
+    "static/media/present3.svg": "/christmas/static/media/present3.8f98b4926cd8ae663b3b7816c388789d.svg",
+    "index.html": "/christmas/index.html",
+    "main.94ef64ec.css.map": "/christmas/static/css/main.94ef64ec.css.map",
+    "main.58b6c620.js.map": "/christmas/static/js/main.58b6c620.js.map",
+    "787.f02be138.chunk.js.map": "/christmas/static/js/787.f02be138.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94ef64ec.css",
-    "static/js/main.11d79da8.js"
+    "static/js/main.58b6c620.js"
   ]
 }
