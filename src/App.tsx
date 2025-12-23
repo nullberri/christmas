@@ -35,11 +35,29 @@ function App() {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src={"/christmas/present1.svg"} />
+                    <img src={"/christmas/present3.svg"} />
                   </div>
                   <div className="flip-card-back">
                     <img
                       src={"/christmas/free-parking.jpg"}
+                      height={"100%"}
+                      width={"100%"}
+                    />
+                  </div>
+                </div>
+              </div>
+            </Box>
+          </Paper>
+          <Paper elevation={6}>
+            <Box height={size} width={size} padding={3} margin={3}>
+              <div className="flip-card">
+                <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <img src={"/christmas/present2.svg"} />
+                  </div>
+                  <div className="flip-card-back">
+                    <img
+                      src={"/christmas/s-l1600.jpg"}
                       height={"100%"}
                       width={"100%"}
                     />
