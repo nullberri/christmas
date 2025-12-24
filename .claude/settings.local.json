@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del srcsetupTests.ts srcreportWebVitals.ts srcreact-app-env.d.ts)"
+    ]
+  }
+}
